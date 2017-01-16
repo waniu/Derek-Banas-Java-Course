@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="lib/commons-lang3-3.5-test-sources.jar"/>
 	<classpathentry kind="lib" path="lib/commons-lang3-3.5-tests.jar"/>
 	<classpathentry kind="lib" path="lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="E:/IT/Biblioteki/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
